@@ -25,7 +25,7 @@ Este projeto foi desenvolvido utilizando:
 
 ## 📸 Demonstração
 
-![Demonstração do projeto](https://raw.githubusercontent.com/Jessiessalgado/SPIDER-MAN-MULTIVERSES-Lading-Page/main/home%20da%20pagina.png)  
+![Demonstração do projeto](home%20da%20pagina.png)  
 *Visualização da página inicial do projeto Spider-Man Multiverses.*  
 
 
